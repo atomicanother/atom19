@@ -1,13 +1,16 @@
 {
-  "name": "atom19",
+  "name": "00003",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.0.1",
+  "description": "สล็อตปันโปร 9999",
   "keywords": [
-    "syntax",
-    "theme"
+    "สล็อต",
+    "ฝาก50รับ150",
+    "สล็อตออนไลน์",
+    "สล็อตเครดิตฟรี"
+
   ],
-  "repository": "https://github.com/atom/atom19",
+  "repository": "https://github.com/atomicanother/atom19",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
